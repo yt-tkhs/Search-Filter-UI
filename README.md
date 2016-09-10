@@ -8,7 +8,7 @@ This is a mock and many features are not yet implement.
 
 # License
 ```
-Copyright (C) 2016 yt-tkhs
+Copyright (C) 2016 yt-tkhs (Yuta Takahashi)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
