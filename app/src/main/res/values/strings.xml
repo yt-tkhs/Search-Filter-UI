@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Filter</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string-array name="sort_type">
+        <item>Best Match</item>
+        <item>Most stars</item>
+        <item>Fewest stars</item>
+        <item>Most forks</item>
+        <item>Fewest forks</item>
+        <item>Recently updated</item>
+        <item>Least recently updated</item>
+    </string-array>
+
+    <string-array name="filter_type">
+        <item>Repositories</item>
+        <item>Code</item>
+        <item>Issues</item>
+        <item>Wikis</item>
+        <item>Users</item>
+    </string-array>
+</resources>
